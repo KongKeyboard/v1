@@ -14,7 +14,7 @@
 	"custom_keycodes": {
   "MACRO_1": "Macro One",
   "MACRO_2": "Macro Two"
-}
+},
 
 
     "matrix_pins": {
